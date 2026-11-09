@@ -1,0 +1,8 @@
+{
+  "name": "VR Gorillas 3D",
+  "short_name": "GorillasVR",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0b0f19",
+  "theme_color": "#ffd000"
+}
